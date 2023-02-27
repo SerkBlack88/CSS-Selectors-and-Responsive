@@ -2,8 +2,8 @@
 
 ### HTML and CSS
 
-### CSS-Flex-Grid-HomeTask
+### CSS-Selectors-and-Responsive-HomeTask
 
-This is the code of the CSS-Flex-Grid-HomeTask.
+This is the code of the CSS-Selectors-and-Responsive-HomeTask.
 
 ### Created by: Sergio Zapata
